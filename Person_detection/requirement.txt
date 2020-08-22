@@ -1,4 +1,11 @@
+Packages required:
 opencv
 Darknet
 Python
 numpy
+
+Please put below files in same folder
+person_detection.py
+coco.names
+yolov3.weights
+yolov3.cfg
