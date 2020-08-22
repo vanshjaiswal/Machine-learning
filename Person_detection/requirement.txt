@@ -1,1 +1,4 @@
 opencv
+Darknet
+Python
+numpy
